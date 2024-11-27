@@ -1,0 +1,5 @@
+com/globo/catalogo/test/reward/CreateRewardTest.class
+com/globo/catalogo/test/portifolio/CreatePriceTest.class
+com/globo/catalogo/test/portifolio/CreateOfferTest.class
+com/globo/catalogo/test/BaseTest.class
+com/globo/catalogo/test/reward/CreateRewardGroupTest.class

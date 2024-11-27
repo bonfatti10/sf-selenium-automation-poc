@@ -1,0 +1,10 @@
+com/globo/catalogo/utils/LoginCommon.class
+com/globo/catalogo/page/portifolio/CreateOfferPage.class
+com/globo/catalogo/page/reward/CreateRewardGroupPage.class
+com/globo/catalogo/utils/TestResultExtension.class
+com/globo/catalogo/page/portifolio/CreatePriceSinglePage.class
+com/globo/catalogo/runner/RunAllTests.class
+com/globo/catalogo/page/reward/CreateRewardPage.class
+com/globo/catalogo/page/portifolio/SeeBasePricePage.class
+com/globo/catalogo/page/LoginPage.class
+com/globo/catalogo/runner/RunBase.class

@@ -1,0 +1,10 @@
+/Users/carlosbonfatti/Documents/catalog-ui-test-automation/src/main/java/com/globo/catalogo/page/LoginPage.java
+/Users/carlosbonfatti/Documents/catalog-ui-test-automation/src/main/java/com/globo/catalogo/page/portifolio/CreateOfferPage.java
+/Users/carlosbonfatti/Documents/catalog-ui-test-automation/src/main/java/com/globo/catalogo/page/portifolio/CreatePriceSinglePage.java
+/Users/carlosbonfatti/Documents/catalog-ui-test-automation/src/main/java/com/globo/catalogo/page/portifolio/SeeBasePricePage.java
+/Users/carlosbonfatti/Documents/catalog-ui-test-automation/src/main/java/com/globo/catalogo/page/reward/CreateRewardGroupPage.java
+/Users/carlosbonfatti/Documents/catalog-ui-test-automation/src/main/java/com/globo/catalogo/page/reward/CreateRewardPage.java
+/Users/carlosbonfatti/Documents/catalog-ui-test-automation/src/main/java/com/globo/catalogo/runner/RunAllTests.java
+/Users/carlosbonfatti/Documents/catalog-ui-test-automation/src/main/java/com/globo/catalogo/runner/RunBase.java
+/Users/carlosbonfatti/Documents/catalog-ui-test-automation/src/main/java/com/globo/catalogo/utils/LoginCommon.java
+/Users/carlosbonfatti/Documents/catalog-ui-test-automation/src/main/java/com/globo/catalogo/utils/TestResultExtension.java
