@@ -45,7 +45,7 @@ sf-automation-test/
 │                   └── tests/       # Classes de teste automatizado
 ├── pom.xml                          # Configuração do Maven
 └── README.md                        # Documentação do projeto
-
+```
 
 ## Configuração e Execução
 
